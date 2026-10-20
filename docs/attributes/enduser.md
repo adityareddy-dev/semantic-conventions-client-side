@@ -4,7 +4,7 @@
 
 | Attribute | Type | Stability | Description | Examples |
 |---|---|---|---|---|
-| `enduser.id` | `string` | development | Unique identifier of an end user in the system. It maybe a username, email address, or other identifier. | `username` |
+| `enduser.id` | `string` | development | Unique identifier of an end user in the system. It may be a username, email address, or other identifier. | `username` |
 | `enduser.pseudo.id` | `string` | development | Pseudonymous identifier of an end user. This identifier should be a random value that is not directly linked or associated with the end user's actual identity. | `QdH5CAWJgqVT4rOr0qtumf` |
 
 
