@@ -1,14 +1,5 @@
 file_format: definition/2
 
-attribute_groups:
-  - id: registry.enduser
-    visibility: public
-    stability: development
-    brief: Describes the end user.
-    attributes:
-      - ref: enduser.id
-      - ref: enduser.pseudo.id
-
 attributes:
   - key: enduser.id
     type: string
